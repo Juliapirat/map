@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://juliapirat.github.io/csb-wludfc/static/css/main.eaaec275.chunk.css",
+    "main.js": "https://juliapirat.github.io/csb-wludfc/static/js/main.074ab3ac.chunk.js",
+    "main.js.map": "https://juliapirat.github.io/csb-wludfc/static/js/main.074ab3ac.chunk.js.map",
+    "runtime-main.js": "https://juliapirat.github.io/csb-wludfc/static/js/runtime-main.3df44e6f.js",
+    "runtime-main.js.map": "https://juliapirat.github.io/csb-wludfc/static/js/runtime-main.3df44e6f.js.map",
+    "static/js/2.09ddee8b.chunk.js": "https://juliapirat.github.io/csb-wludfc/static/js/2.09ddee8b.chunk.js",
+    "static/js/2.09ddee8b.chunk.js.map": "https://juliapirat.github.io/csb-wludfc/static/js/2.09ddee8b.chunk.js.map",
+    "index.html": "https://juliapirat.github.io/csb-wludfc/index.html",
+    "precache-manifest.5ae66214cbb7fc836a1aac12f59e6e91.js": "https://juliapirat.github.io/csb-wludfc/precache-manifest.5ae66214cbb7fc836a1aac12f59e6e91.js",
+    "service-worker.js": "https://juliapirat.github.io/csb-wludfc/service-worker.js",
+    "static/css/main.eaaec275.chunk.css.map": "https://juliapirat.github.io/csb-wludfc/static/css/main.eaaec275.chunk.css.map",
+    "static/js/2.09ddee8b.chunk.js.LICENSE.txt": "https://juliapirat.github.io/csb-wludfc/static/js/2.09ddee8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3df44e6f.js",
+    "static/js/2.09ddee8b.chunk.js",
+    "static/css/main.eaaec275.chunk.css",
+    "static/js/main.074ab3ac.chunk.js"
+  ]
+}
